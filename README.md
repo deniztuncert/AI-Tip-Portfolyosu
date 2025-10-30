@@ -2,7 +2,7 @@
 
 # AKADEMİK PORTFOLYO VE PROJE TEKLİFİ ÖZETİ
 
-Bu sayfa, Sinyal İşleme ve Makine Öğrenmesi alanında sizinle çalışmaya olan ciddiyetimi ve yeteneklerimi göstermek için hazırlanmıştır. Aşağıdaki başlıklara tıklayarak kanıtlarımı inceleyebilirsiniz.
+Bu sayfayı, Sinyal İşleme ve Makine Öğrenmesi alanında sizinle çalışmaya olan ciddiyetimi ve yeteneklerimi göstermek için hazırladım. Aşağıdaki başlıklara tıklayarak dosyaları inceleyebilirsiniz.
 
 ---
 
