@@ -9,13 +9,13 @@ Bu sayfa, Sinyal İşleme ve Makine Öğrenmesi alanında sizinle çalışmaya o
 ## 1. TEKNİK YETKİNLİK KANITI (Python & EDA Uygulaması)
 Bu çalışma, Tıp 1. Sınıf öğrencisi olarak edindiğim Python (Numpy, Pandas, Matplotlib) becerilerini kullanarak hazırladığım çok değişkenli "İnme Prevalansı Analizi" raporudur.
 
-- [İNME KEŞİFSEL VERİ ANALİZİ RAPORU (Jupyter Notebook)] (Multivariate_Stroke_Analysis.ipynb)
+- [İNME KEŞİFSEL VERİ ANALİZİ RAPORU (Jupyter Notebook)](Multivariate_Stroke_Analysis.ipynb)
 
 
 ## 2. VİZYON VE ARAŞTIRMA TEKLİFİ
 Sizin uzmanlıklarınızı temel alarak hazırladığım, literatürdeki boşluğu doldurmayı hedefleyen proje teklifim.
 
-- [NON-İNVAZİV DİSFAJİ PROJE TEKLİFİ] (Non_Invaziv_Disfaji_Teklifi.pdf)
+- [NON-İNVAZİV DİSFAJİ PROJE TEKLİFİ](Non_Invaziv_Disfaji_Teklifi.pdf)
 
 
 ---
