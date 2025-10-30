@@ -1,6 +1,6 @@
 # AI-Tip-Portfolyosu
 
-# BEREN HOCAM'A SUNUM: AKADEMİK PORTFOLYO VE PROJE TEKLİFİ ÖZETİ
+# AKADEMİK PORTFOLYO VE PROJE TEKLİFİ ÖZETİ
 
 Bu sayfa, Sinyal İşleme ve Makine Öğrenmesi alanında sizinle çalışmaya olan ciddiyetimi ve yeteneklerimi göstermek için hazırlanmıştır. Aşağıdaki başlıklara tıklayarak kanıtlarımı inceleyebilirsiniz.
 
